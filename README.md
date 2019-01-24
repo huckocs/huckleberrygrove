@@ -1,7 +1,7 @@
 huckleberrygrove
 ================
 
-Personal website of Rob Selenius-Lloyd
+Personal website of Rob Lloyd
 
 ## Hello
 
